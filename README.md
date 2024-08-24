@@ -22,7 +22,7 @@
 
 
    <p align="left">
-  <a href="https://github.com/Barakabegaa/BARAKA-MD-V1/fork">
+  <a href="https://github.com/Barakabegaa/BARAKA-MD-V1/forks">
     <img src="https://img.shields.io/github/forks/Barakabegaa/BARAKA-MD-V1?label=Fork&style=social">
   <p align="left"> 
   <a href="https://github.com/Barakabegaa/BARAKA-MD-V1/stargazers">
