@@ -22,12 +22,11 @@
 
 
    <p align="left">
-  <a href="https://github.com/Barakabegaa/BARAKA-MD-V1/forks">
+  <a href="https://github.com/Barakabegaa/BARAKA-MD-V1/fork">
     <img src="https://img.shields.io/github/forks/Barakabegaa/BARAKA-MD-V1?label=Fork&style=social">
   <p align="left"> 
   <a href="https://github.com/Barakabegaa/BARAKA-MD-V1/stargazers">
     <img src="https://img.shields.io/github/stars/Barakabegaa/BARAKA-MD-V1?style=social">
-      
 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
